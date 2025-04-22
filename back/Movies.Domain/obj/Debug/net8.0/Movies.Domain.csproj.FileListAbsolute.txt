@@ -1,0 +1,11 @@
+D:\Career Files\Projects\Movies\Movies.Domain\bin\Debug\net8.0\Movies.Domain.deps.json
+D:\Career Files\Projects\Movies\Movies.Domain\bin\Debug\net8.0\Movies.Domain.dll
+D:\Career Files\Projects\Movies\Movies.Domain\bin\Debug\net8.0\Movies.Domain.pdb
+D:\Career Files\Projects\Movies\Movies.Domain\obj\Debug\net8.0\Movies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career Files\Projects\Movies\Movies.Domain\obj\Debug\net8.0\Movies.Domain.AssemblyInfoInputs.cache
+D:\Career Files\Projects\Movies\Movies.Domain\obj\Debug\net8.0\Movies.Domain.AssemblyInfo.cs
+D:\Career Files\Projects\Movies\Movies.Domain\obj\Debug\net8.0\Movies.Domain.csproj.CoreCompileInputs.cache
+D:\Career Files\Projects\Movies\Movies.Domain\obj\Debug\net8.0\Movies.Domain.dll
+D:\Career Files\Projects\Movies\Movies.Domain\obj\Debug\net8.0\refint\Movies.Domain.dll
+D:\Career Files\Projects\Movies\Movies.Domain\obj\Debug\net8.0\Movies.Domain.pdb
+D:\Career Files\Projects\Movies\Movies.Domain\obj\Debug\net8.0\ref\Movies.Domain.dll

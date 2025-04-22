@@ -1,0 +1,17 @@
+D:\Career Files\Projects\Movies\Movies.DataLayer\bin\Debug\net8.0\Movies.DataLayer.deps.json
+D:\Career Files\Projects\Movies\Movies.DataLayer\bin\Debug\net8.0\Movies.DataLayer.runtimeconfig.json
+D:\Career Files\Projects\Movies\Movies.DataLayer\bin\Debug\net8.0\Movies.DataLayer.dll
+D:\Career Files\Projects\Movies\Movies.DataLayer\bin\Debug\net8.0\Movies.DataLayer.pdb
+D:\Career Files\Projects\Movies\Movies.DataLayer\bin\Debug\net8.0\Movies.Domain.dll
+D:\Career Files\Projects\Movies\Movies.DataLayer\bin\Debug\net8.0\Movies.Domain.pdb
+D:\Career Files\Projects\Movies\Movies.DataLayer\obj\Debug\net8.0\Movies.DataLayer.csproj.AssemblyReference.cache
+D:\Career Files\Projects\Movies\Movies.DataLayer\obj\Debug\net8.0\Movies.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career Files\Projects\Movies\Movies.DataLayer\obj\Debug\net8.0\Movies.DataLayer.AssemblyInfoInputs.cache
+D:\Career Files\Projects\Movies\Movies.DataLayer\obj\Debug\net8.0\Movies.DataLayer.AssemblyInfo.cs
+D:\Career Files\Projects\Movies\Movies.DataLayer\obj\Debug\net8.0\Movies.DataLayer.csproj.CoreCompileInputs.cache
+D:\Career Files\Projects\Movies\Movies.DataLayer\obj\Debug\net8.0\Movies.D.9E9EE175.Up2Date
+D:\Career Files\Projects\Movies\Movies.DataLayer\obj\Debug\net8.0\Movies.DataLayer.dll
+D:\Career Files\Projects\Movies\Movies.DataLayer\obj\Debug\net8.0\refint\Movies.DataLayer.dll
+D:\Career Files\Projects\Movies\Movies.DataLayer\obj\Debug\net8.0\Movies.DataLayer.pdb
+D:\Career Files\Projects\Movies\Movies.DataLayer\obj\Debug\net8.0\Movies.DataLayer.genruntimeconfig.cache
+D:\Career Files\Projects\Movies\Movies.DataLayer\obj\Debug\net8.0\ref\Movies.DataLayer.dll
